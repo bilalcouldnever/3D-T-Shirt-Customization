@@ -65,4 +65,3 @@ This project is licensed under the MIT License.
 Thank you for choosing our AI-powered 3D T-Shirt Customization website. We hope you enjoy the experience of creating your one-of-a-kind T-shirts! If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy Customizing!
-Bilal Faruq and the Development Team.
