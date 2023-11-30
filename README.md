@@ -1,5 +1,9 @@
 # AI-Powered 3D T-Shirt Customization Website
 
+## Author & License
+-Bilal faruQ
+-This project is licensed under the MIT License.
+
 ## Introduction
 
 Welcome to our AI-powered 3D T-Shirt Customization website, crafted with passion and expertise by Bilal Faruq. This cutting-edge platform combines the power of React for seamless user interfaces and 3JS for immersive 3D experiences. Now, users can personalize their T-shirts like never before, thanks to advanced artificial intelligence integration.
@@ -51,16 +55,6 @@ To run this project locally, follow these steps:
 ## Contributing
 
 We welcome contributions from the community. Feel free to fork the repository, make improvements, and create pull requests. Together, we can make this customization platform even better!
-
-## Acknowledgments
-
-We extend our gratitude to Bilal Faruq for his dedication and expertise in developing this AI-powered 3D T-Shirt Customization website.
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Thank you for choosing our AI-powered 3D T-Shirt Customization website. We hope you enjoy the experience of creating your one-of-a-kind T-shirts! If you have any questions or feedback, please don't hesitate to reach out.
 
