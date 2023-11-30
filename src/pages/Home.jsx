@@ -19,7 +19,7 @@ const Home = () => {
         <motion.section className="home" {...slideAnimation('left')}>
           <motion.header {...slideAnimation("down")}>
             <img 
-              src='./threejs.png'
+              src='./Colored Abstract Letter B.png'
               alt="logo"
               className="w-8 h-8 object-contain"
             />
@@ -35,7 +35,7 @@ const Home = () => {
               {...headContentAnimation}
               className="flex flex-col gap-5"
             >
-              <p className="max-w-md font-normal text-gray-600 text-base">
+              <p className="max-w-md font-normal text-black-600 text-base">
               Craft your distinctive and exclusive shirt using our state-of-the-art 3D customization tool. <strong>Unleash your imagination </strong>{" "} and define your own style.
               </p>
 
