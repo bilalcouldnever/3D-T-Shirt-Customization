@@ -1,9 +1,9 @@
-import ai from "./ai.png";
-import fileIcon from "./file.png";
-import swatch from "./swatch.png";
+import ai from "./artificial-intelligence_4616790.png";
+import fileIcon from "./folder_3767084.png";
+import swatch from "./wheel_2071665.png";
 import download from "./download.png";
 
-import logoShirt from "./logo-tshirt.png";
-import stylishShirt from "./stylish-tshirt.png";
+import logoShirt from "./shirtlogo.png";
+import stylishShirt from "./shirtstylish.png";
 
 export { ai, fileIcon, swatch, download, logoShirt, stylishShirt };
